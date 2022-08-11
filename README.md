@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuitfsdev&show_icons=true&theme=radical" />
 <br>
+ <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nuitfsdev&theme=solarized" />
+<br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuitfsdev&layout=compact" />
 <br>
 
