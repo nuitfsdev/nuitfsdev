@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Nam.
 <img align="center" src="https://komarev.com/ghpvc/?username=nuitfsdev&style=plastic" />  
 
 ### My github stats 
