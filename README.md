@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ <img align="center" src="https://komarev.com/ghpvc/?username=nuitfsdev&style=plastic" />
+<br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuitfsdev&show_icons=true&theme=radical" />
 <br>
  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nuitfsdev&theme=2077" />
