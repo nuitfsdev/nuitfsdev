@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </a>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuitfsdev&layout=compact&bg_color=DEG,yellow,green,blue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuitfsdev&layout=compact&bg_color=yellow,green,blue" />
 </a>
 <br>
 
