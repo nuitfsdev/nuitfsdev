@@ -7,7 +7,7 @@
 ### My profile details 
  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nuitfsdev&theme=2077" />
  
-### My commit 
+### My commits 
  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nuitfsdev&theme=2077&utcOffset=8" />
  
 ### Top my languages 
