@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuitfsdev&show_icons=true&theme=radical&bg_color=yellow,green,blue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuitfsdev&show_icons=true&theme=radical&bg_color=DEG,yellow,green,blue" />
 </a>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
